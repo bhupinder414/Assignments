@@ -1,0 +1,27 @@
+.col
+{
+   color:skyblue;
+}
+
+.bor
+{
+  border: 10px solid skyblue;
+  margin: 30px 70px 30px 30px;
+  padding: 30px;
+}
+
+img
+{
+  float:left;
+  padding-right: 20px;
+}
+
+.ff
+{
+  font-size: 40px;
+}
+
+th,td
+{
+  padding: 10px;
+}
